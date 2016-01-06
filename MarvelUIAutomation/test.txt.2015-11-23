@@ -1,0 +1,57 @@
+2015-11-24 11:34:56,203 INFO  [SmokeTest] BROWSER SUCCESSFULLY INITIALIZED AND NAVIGATED TO MARVEL.COM 
+2015-11-24 11:34:56,899 INFO  [SmokeTest] Login test initialized. 
+2015-11-24 11:34:57,380 INFO  [HomePage] Hovered over mouseover menu on login icon 
+2015-11-24 11:34:57,593 INFO  [HomePage] clicked on 'Login With Marvel Account' Button 
+2015-11-24 11:35:01,467 INFO  [SmokeTest] Entered existing username. 
+2015-11-24 11:35:01,591 INFO  [SmokeTest] Entered existing password. 
+2015-11-24 11:35:08,352 INFO  [SmokeTest] Clicked on 'Sign In' button. 
+2015-11-24 11:35:08,353 INFO  [SmokeTest] Login as existing user successful. 
+2015-11-24 11:35:08,353 INFO  [SmokeTest] TEST COMPLETED 
+2015-11-24 11:35:20,499 INFO  [SmokeTest] BROWSER SUCCESSFULLY INITIALIZED AND NAVIGATED TO MARVEL.COM 
+2015-11-24 11:35:21,149 INFO  [SmokeTest] Login test initialized. 
+2015-11-24 11:35:21,566 INFO  [HomePage] Hovered over mouseover menu on login icon 
+2015-11-24 11:35:21,695 INFO  [HomePage] clicked on 'Login With Marvel Account' Button 
+2015-11-24 11:35:24,184 INFO  [SmokeTest] Entered existing username. 
+2015-11-24 11:35:24,285 INFO  [SmokeTest] Entered existing password. 
+2015-11-24 11:35:31,395 INFO  [SmokeTest] Clicked on 'Sign In' button. 
+2015-11-24 11:35:31,395 INFO  [SmokeTest] Login as existing user successful. 
+2015-11-24 11:35:31,396 INFO  [SmokeTest] TEST COMPLETED 
+2015-11-24 11:35:56,640 INFO  [SmokeTest] BROWSER SUCCESSFULLY INITIALIZED AND NAVIGATED TO MARVEL.COM 
+2015-11-24 11:36:01,121 INFO  [HomePage] Clicked on Search Icon. 
+2015-11-24 11:36:01,593 INFO  [HomePage] Entered search term 'Spiderman.' 
+2015-11-24 11:36:01,752 INFO  [HomePage] Clicked search button. 
+2015-11-24 11:36:04,760 INFO  [SmokeTest] Search box functionality successfully verified. 
+2015-11-24 11:36:04,761 INFO  [SmokeTest] TEST COMPLETED 
+2015-11-24 11:36:15,462 INFO  [SmokeTest] BROWSER SUCCESSFULLY INITIALIZED AND NAVIGATED TO MARVEL.COM 
+2015-11-24 11:36:37,439 INFO  [Shared] not clicked 
+2015-11-24 11:36:37,447 INFO  [SmokeTest] Verified functionalities on My Account page. 
+2015-11-24 11:36:37,447 INFO  [SmokeTest] TEST COMPLETED 
+2015-11-24 11:36:42,919 INFO  [SmokeTest] BROWSER SUCCESSFULLY INITIALIZED AND NAVIGATED TO MARVEL.COM 
+2015-11-24 11:36:46,147 INFO  [Shared] element is displayed 
+2015-11-24 11:36:46,215 INFO  [Shared] element is displayed 
+2015-11-24 11:36:46,215 INFO  [SmokeTest] Header ad banner verified. 
+2015-11-24 11:36:46,216 INFO  [SmokeTest] Footer ad banner verified. 
+2015-11-24 11:36:46,216 INFO  [SmokeTest] TEST COMPLETED 
+2015-11-24 11:36:51,585 INFO  [SmokeTest] BROWSER SUCCESSFULLY INITIALIZED AND NAVIGATED TO MARVEL.COM 
+2015-11-24 11:36:52,184 INFO  [SmokeTest] Home page tests initialized. 
+2015-11-24 11:36:55,206 INFO  [Shared] ERROR: Page title was not matched. 
+2015-11-24 11:36:55,206 INFO  [SmokeTest] Home page title was verified. 
+2015-11-24 11:36:55,207 INFO  [SmokeTest] Marvel logo is correctly displayed. 
+2015-11-24 11:36:55,207 INFO  [SmokeTest] TEST COMPLETED 
+2015-11-24 11:37:00,767 INFO  [SmokeTest] BROWSER SUCCESSFULLY INITIALIZED AND NAVIGATED TO MARVEL.COM 
+2015-11-24 11:37:01,320 INFO  [SmokeTest] Login test initialized. 
+2015-11-24 11:37:01,424 INFO  [HomePage] Hovered over mouseover menu on login icon 
+2015-11-24 11:37:01,599 INFO  [HomePage] clicked on 'Login With Marvel Account' Button 
+2015-11-24 11:37:04,042 INFO  [SmokeTest] Entered existing username. 
+2015-11-24 11:37:04,137 INFO  [SmokeTest] Entered existing password. 
+2015-11-24 11:37:09,754 INFO  [SmokeTest] Clicked on 'Sign In' button. 
+2015-11-24 11:37:09,754 INFO  [SmokeTest] Login as existing user successful. 
+2015-11-24 11:37:09,754 INFO  [SmokeTest] TEST COMPLETED 
+2015-11-24 11:45:36,871 INFO  [SmokeTest] BROWSER SUCCESSFULLY INITIALIZED AND NAVIGATED TO MARVEL.COM 
+2015-11-24 11:45:37,497 INFO  [SmokeTest] Home page tests initialized. 
+2015-11-24 11:45:40,826 INFO  [Shared] ERROR: Page title was not matched. 
+2015-11-24 11:45:40,826 INFO  [SmokeTest] Home page title was verified. 
+2015-11-24 11:45:41,232 INFO  [Shared] element is displayed 
+2015-11-24 11:45:41,233 INFO  [SmokeTest] Top Nav bar verified. 
+2015-11-24 11:45:41,233 INFO  [SmokeTest] Marvel logo is correctly displayed. 
+2015-11-24 11:45:41,233 INFO  [SmokeTest] TEST COMPLETED 
